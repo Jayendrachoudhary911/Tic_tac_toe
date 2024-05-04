@@ -14,7 +14,7 @@ In this game you can play our childhood fav game **Tic Tac Toe** online and it i
 To see the live preview you can click th below button:
 
 [![Static Badge](https://img.shields.io/badge/Live-Preview)
-](https://sites.google.com/view/devzonebywiyou/2048-game?authuser=0) or [Click Here](https://sites.google.com/view/devzonebywiyou/tic-tac-toe?authuser=0)
+](https://sites.google.com/view/devzonebywiyou/tic-tac-toe?authuser=0) or [Click Here](https://sites.google.com/view/devzonebywiyou/tic-tac-toe?authuser=0)
 
 This button redirects you to the the **DevZone - < WiYou! />** Page where you can see and test the game live online. This website is our website that contains all other projects created by me.
 ## Installation
